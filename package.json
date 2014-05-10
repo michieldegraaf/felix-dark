@@ -1,7 +1,7 @@
 {
   "name": "felix-dark",
   "theme": "syntax",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "private": false,
   "description": "A dark theme that's easy on the eyes",
   "repository": "https://github.com/michieldegraaf/felix-dark",
